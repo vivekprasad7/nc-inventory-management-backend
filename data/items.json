@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Mouse",
+      "category": "Electronics",
+      "quantity": 6,
+      "price": 300
+    },
+    {
+      "name": "Charger",
+      "category": "Electronics",
+      "quantity": 3,
+      "price": 50
+    },
+    {
+      "name": "Notebook",
+      "category": "Grocery",
+      "quantity": 10,
+      "price": 50
+    },
+    {
+      "name": "Phone",
+      "category": "Electronics",
+      "quantity": 1,
+      "price": 10000
+    },
+    {
+      "name": "UPS",
+      "category": "Electronics",
+      "quantity": 6,
+      "price": 2000
+    }
+  ]
